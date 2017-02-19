@@ -1,11 +1,6 @@
-html, body {
-	position: absolute;
-	background-color: black;
-	background-image: url("img/grey-background.jpg");
-}
-
-#background {
-
+body {
+	text-align: center;
+	background: url("img/grey-background.jpg");
 }
 
 h1, h2, h3, h4, h5, h6, p {
