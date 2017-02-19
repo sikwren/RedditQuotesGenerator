@@ -1,0 +1,35 @@
+html, body {
+	position: absolute;
+	background-color: black;
+	background-image: url("img/grey-background.jpg");
+}
+
+#background {
+
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	color: #FFFFFF;
+}
+
+#quotesDisplay {
+	color: #FFFFFF;
+	text-transform: uppercase;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+a {
+	color: lightblue;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: lightblue;
+}
+
+
